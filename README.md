@@ -4,5 +4,3 @@ Simple circular buffer with build-in [Lagrange interpolationn](https://www.googl
 
 Polynomial order can be adjusted by changing number of sample values. 
 
-
-# Lagrange-Interp-Circular-Buffer
